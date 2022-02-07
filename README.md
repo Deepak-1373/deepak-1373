@@ -3,7 +3,7 @@
 
 Passionate Frontend Developer:
 
-- 🌱 I’m currently learning <b>System Design & Node.js</b>
+- 🌱 I’m currently learning <b>System Design</b>
 
 - 💬 Ask me about <b>Javascript and React.js</b>
 
