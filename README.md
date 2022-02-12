@@ -1,5 +1,4 @@
 # Hi, I'm Deepak! 👋
-<hr></hr>
 
 Passionate Frontend Developer:
 
