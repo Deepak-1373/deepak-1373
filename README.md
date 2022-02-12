@@ -1,4 +1,4 @@
-### Hi 👋, I'm Deepak Kamat
+# Hi, I'm Deepak! 👋
 <hr></hr>
 
 Passionate Frontend Developer:
