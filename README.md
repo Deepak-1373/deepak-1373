@@ -1,8 +1,6 @@
 # Hi, I'm Deepak! 👋
 
-Passionate Frontend Developer:
-
-- 🌱 I’m currently learning <b>System Design</b>
+<h3>Passionate Frontend Developer</h3>
 
 - 💬 Ask me about <b>Javascript and React.js</b>
 
