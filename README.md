@@ -2,6 +2,8 @@
 
 <h3>Passionate Frontend Developer</h3>
 
+- 🧑🏽‍💻 See my portfolio at <a href="peerlist.io/deepak12peerlist.io/deepak12">peerlist.io/deepak12</a>
+
 - 💬 Ask me about <b>Javascript and React.js</b>
 
 - 📫 How to reach me: <a>dkamat.001@gmail.com</a>
