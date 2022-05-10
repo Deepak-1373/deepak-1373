@@ -2,7 +2,7 @@
 
 <h3>Passionate Frontend Developer</h3>
 
-- 🧑🏽‍💻 See my portfolio at <a href="peerlist.io/deepak12peerlist.io/deepak12">peerlist.io/deepak12</a>
+- 🧑🏽‍💻 See my portfolio at <a href="https://deepak1221.netlify.app/">https://deepak1221.netlify.app/</a>
 
 - 💬 Ask me about <b>Javascript and React.js</b>
 
