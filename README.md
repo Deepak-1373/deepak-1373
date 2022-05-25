@@ -2,7 +2,7 @@
 
 <h3>Passionate Frontend Developer</h3>
 
-- 🧑🏽‍💻 See my portfolio at <a href="https://deepak1221.netlify.app/">https://deepak1221.netlify.app/</a>
+- 🧑🏽‍💻 See my portfolio at <a href="https://deepak1221.netlify.app/" target="_blank" rel="noopener noreferrer">https://deepak1221.netlify.app/</a>
 
 - 💬 Ask me about <b>Javascript and React.js</b>
 
